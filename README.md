@@ -12,6 +12,21 @@ This is a console-based Hangman game developed in C++ as a university project. T
 - Win and lose conditions
 - Simple and user-friendly interface
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Gameplay
+![Gameplay 1](screenshots/gameplay%201.png)
+![Gameplay 2](screenshots/gameplay%202.png)
+
+### Win Screen
+![Win Screen](screenshots/win-screen.png)
+
+### Game Over
+![Game Over](screenshots/game-over.png)
+
 ## Technologies Used
 
 - C++
@@ -37,6 +52,5 @@ This project helped me improve my understanding of:
 
 ## Author
 
-**Fizzah Ahmed**
-
+**Fizzah Ahmed**  
 Computer Science Student
