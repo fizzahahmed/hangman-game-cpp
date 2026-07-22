@@ -1,0 +1,15 @@
+# Visual Studio temporary and build files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.db
+*.opendb
+*.sdf
+*.ipch
+*.log
+*.tlog
+*.log.*
